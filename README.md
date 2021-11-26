@@ -3,7 +3,7 @@
 ```javascript
 const proWilliam = {
   code: [Javascript, HTML, CSS, Python],
-  tools: [React, Express, Node, MongoDB, Electron, Selenium, Boostrap, Material-UI]
+  tools: [React, Express, Node, MongoDB, Electron, Selenium, Boostrap, Material-UI, BeautifulSoup, Requests]
 }
 
 ```
