@@ -2,8 +2,8 @@
 
 ```javascript
 const proWilliam = {
-  code: [Javascript, HTML, CSS, Python],
-  tools: [React, Express, Node, MongoDB, Electron, Selenium, Boostrap, Material-UI, BeautifulSoup, Requests]
+  code: [Javascript, HTML, CSS, Python, TypeScript],
+  tools: [Angular, React, Express, Node, MongoDB, Electron, Selenium, Boostrap, Material-UI, BeautifulSoup, Requests, ]
 }
 
 ```
